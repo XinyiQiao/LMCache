@@ -746,6 +746,8 @@ class LMCacheConnectorV1Impl:
             The number of elements in kv_caches and layer_names should be
             the same.
         """
+        import time
+        load_start_time = time.perf_counter()
         self.current_layer = 0
 
         if len(self.kv_caches) == 0:
@@ -820,6 +822,7 @@ class LMCacheConnectorV1Impl:
                     next(layerwise_retriever)
                     self.layerwise_retrievers.append(layerwise_retriever)
             else:
+                retrieve_start = time.perf_counter()
                 ret_token_mask = self.lmcache_engine.retrieve(
                     tokens[:lmcache_cached_tokens],
                     token_mask[:lmcache_cached_tokens],
@@ -828,9 +831,19 @@ class LMCacheConnectorV1Impl:
                     request_configs=request.request_configs,
                     req_id=request.req_id,
                 )
+                retrieve_end = time.perf_counter()
+                retrieve_time_ms = (retrieve_end - retrieve_start) * 1000
 
                 # Check the result
                 num_retrieved_tokens = ret_token_mask.sum().item()
+                tokens_to_load = lmcache_cached_tokens - request.load_spec.vllm_cached_tokens
+                logger.info(
+                    "LMCache retrieve for request %s: %d tokens loaded in %.2f ms (%.2f ms/1k tokens)",
+                    request.req_id,
+                    tokens_to_load,
+                    retrieve_time_ms,
+                    retrieve_time_ms / max(tokens_to_load, 1) * 1000,
+                )
                 num_expected_tokens = (
                     lmcache_cached_tokens - request.load_spec.vllm_cached_tokens
                 )
@@ -861,6 +874,13 @@ class LMCacheConnectorV1Impl:
                 request.load_spec.vllm_cached_tokens
             )
             self._stats_monitor.update_interval_prompt_tokens(len(tokens))
+
+        load_end_time = time.perf_counter()
+        total_load_time_ms = (load_end_time - load_start_time) * 1000
+        logger.info(
+            "start_load_kv total time: %.2f ms",
+            total_load_time_ms,
+        )
 
     def record_failed_blocks(
         self,

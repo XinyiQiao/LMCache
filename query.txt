@@ -1,0 +1,2349 @@
+Collecting metrics from localhost:8000 every 5.0s (Ctrl+C to stop)
+
+--- Metrics (iteration 1) ---
+  avg_inter_token_latency_ms: 40.4482
+  inter_token_latency_count: 1351019
+  inter_token_latency_sum: 54646.3022
+  kv_cache_usage: 0.5000
+  num_requests_running: 4
+  num_requests_waiting: 0
+
+--- Metrics (iteration 2) ---
+  avg_inter_token_latency_ms: 40.4255
+  inter_token_latency_count: 1352579
+  inter_token_latency_sum: 54678.6966
+  kv_cache_usage: 0.8631
+  num_requests_running: 7
+  num_requests_waiting: 0
+
+--- Metrics (iteration 3) ---
+  avg_inter_token_latency_ms: 40.4021
+  inter_token_latency_count: 1354169
+  inter_token_latency_sum: 54711.2351
+  kv_cache_usage: 0.8680
+  num_requests_running: 7
+  num_requests_waiting: 0
+
+--- Metrics (iteration 4) ---
+  avg_inter_token_latency_ms: 40.3790
+  inter_token_latency_count: 1355735
+  inter_token_latency_sum: 54743.2206
+  kv_cache_usage: 0.7384
+  num_requests_running: 6
+  num_requests_waiting: 0
+
+--- Metrics (iteration 5) ---
+  avg_inter_token_latency_ms: 40.3560
+  inter_token_latency_count: 1357315
+  inter_token_latency_sum: 54775.8432
+  kv_cache_usage: 0.7568
+  num_requests_running: 6
+  num_requests_waiting: 0
+
+--- Metrics (iteration 6) ---
+  avg_inter_token_latency_ms: 40.3331
+  inter_token_latency_count: 1358897
+  inter_token_latency_sum: 54808.5494
+  kv_cache_usage: 0.8827
+  num_requests_running: 7
+  num_requests_waiting: 0
+
+--- Metrics (iteration 7) ---
+  avg_inter_token_latency_ms: 40.3106
+  inter_token_latency_count: 1360457
+  inter_token_latency_sum: 54840.8768
+  kv_cache_usage: 0.8876
+  num_requests_running: 7
+  num_requests_waiting: 0
+
+--- Metrics (iteration 8) ---
+  avg_inter_token_latency_ms: 40.2885
+  inter_token_latency_count: 1362010
+  inter_token_latency_sum: 54873.3863
+  kv_cache_usage: 0.8924
+  num_requests_running: 7
+  num_requests_waiting: 0
+
+--- Metrics (iteration 9) ---
+  avg_inter_token_latency_ms: 40.2661
+  inter_token_latency_count: 1363573
+  inter_token_latency_sum: 54905.7996
+  kv_cache_usage: 0.8972
+  num_requests_running: 7
+  num_requests_waiting: 0
+
+--- Metrics (iteration 10) ---
+  avg_inter_token_latency_ms: 40.2442
+  inter_token_latency_count: 1365109
+  inter_token_latency_sum: 54937.7392
+  kv_cache_usage: 0.6488
+  num_requests_running: 5
+  num_requests_waiting: 0
+
+--- Metrics (iteration 11) ---
+  avg_inter_token_latency_ms: 40.2228
+  inter_token_latency_count: 1366626
+  inter_token_latency_sum: 54969.5650
+  kv_cache_usage: 0.6522
+  num_requests_running: 5
+  num_requests_waiting: 0
+
+--- Metrics (iteration 12) ---
+  avg_inter_token_latency_ms: 40.2014
+  inter_token_latency_count: 1368159
+  inter_token_latency_sum: 55001.8562
+  kv_cache_usage: 0.9119
+  num_requests_running: 7
+  num_requests_waiting: 0
+
+--- Metrics (iteration 13) ---
+  avg_inter_token_latency_ms: 40.1797
+  inter_token_latency_count: 1369698
+  inter_token_latency_sum: 55034.1156
+  kv_cache_usage: 0.7749
+  num_requests_running: 6
+  num_requests_waiting: 0
+
+--- Metrics (iteration 14) ---
+  avg_inter_token_latency_ms: 40.1586
+  inter_token_latency_count: 1371221
+  inter_token_latency_sum: 55066.3529
+  kv_cache_usage: 0.9215
+  num_requests_running: 7
+  num_requests_waiting: 0
+
+--- Metrics (iteration 15) ---
+  avg_inter_token_latency_ms: 40.1373
+  inter_token_latency_count: 1372755
+  inter_token_latency_sum: 55098.6572
+  kv_cache_usage: 0.8050
+  num_requests_running: 6
+  num_requests_waiting: 0
+
+--- Metrics (iteration 16) ---
+  avg_inter_token_latency_ms: 40.1162
+  inter_token_latency_count: 1374258
+  inter_token_latency_sum: 55130.0344
+  kv_cache_usage: 0.8218
+  num_requests_running: 6
+  num_requests_waiting: 0
+
+--- Metrics (iteration 17) ---
+  avg_inter_token_latency_ms: 40.0955
+  inter_token_latency_count: 1375678
+  inter_token_latency_sum: 55158.5520
+  kv_cache_usage: 0.8259
+  num_requests_running: 6
+  num_requests_waiting: 0
+
+--- Metrics (iteration 18) ---
+  avg_inter_token_latency_ms: 40.0752
+  inter_token_latency_count: 1377064
+  inter_token_latency_sum: 55186.1314
+  kv_cache_usage: 0.8304
+  num_requests_running: 6
+  num_requests_waiting: 0
+
+--- Metrics (iteration 19) ---
+  avg_inter_token_latency_ms: 40.0551
+  inter_token_latency_count: 1378458
+  inter_token_latency_sum: 55214.2345
+  kv_cache_usage: 0.8346
+  num_requests_running: 6
+  num_requests_waiting: 0
+
+--- Metrics (iteration 20) ---
+  avg_inter_token_latency_ms: 40.0350
+  inter_token_latency_count: 1379844
+  inter_token_latency_sum: 55242.0109
+  kv_cache_usage: 0.6829
+  num_requests_running: 5
+  num_requests_waiting: 0
+
+--- Metrics (iteration 21) ---
+  avg_inter_token_latency_ms: 40.0149
+  inter_token_latency_count: 1381240
+  inter_token_latency_sum: 55270.1221
+  kv_cache_usage: 0.7056
+  num_requests_running: 5
+  num_requests_waiting: 0
+
+--- Metrics (iteration 22) ---
+  avg_inter_token_latency_ms: 39.9957
+  inter_token_latency_count: 1382584
+  inter_token_latency_sum: 55297.4726
+  kv_cache_usage: 0.7093
+  num_requests_running: 5
+  num_requests_waiting: 0
+
+--- Metrics (iteration 23) ---
+  avg_inter_token_latency_ms: 39.9761
+  inter_token_latency_count: 1383963
+  inter_token_latency_sum: 55325.3935
+  kv_cache_usage: 0.7128
+  num_requests_running: 5
+  num_requests_waiting: 0
+
+--- Metrics (iteration 24) ---
+  avg_inter_token_latency_ms: 39.9568
+  inter_token_latency_count: 1385333
+  inter_token_latency_sum: 55353.4874
+  kv_cache_usage: 0.8558
+  num_requests_running: 6
+  num_requests_waiting: 0
+
+--- Metrics (iteration 25) ---
+  avg_inter_token_latency_ms: 39.9372
+  inter_token_latency_count: 1386726
+  inter_token_latency_sum: 55381.9156
+  kv_cache_usage: 0.8599
+  num_requests_running: 6
+  num_requests_waiting: 0
+
+--- Metrics (iteration 26) ---
+  avg_inter_token_latency_ms: 39.9183
+  inter_token_latency_count: 1388073
+  inter_token_latency_sum: 55409.5141
+  kv_cache_usage: 0.8642
+  num_requests_running: 6
+  num_requests_waiting: 0
+
+--- Metrics (iteration 27) ---
+  avg_inter_token_latency_ms: 39.8984
+  inter_token_latency_count: 1389374
+  inter_token_latency_sum: 55433.7388
+  kv_cache_usage: 0.7219
+  num_requests_running: 5
+  num_requests_waiting: 0
+
+--- Metrics (iteration 28) ---
+  avg_inter_token_latency_ms: 39.8780
+  inter_token_latency_count: 1390758
+  inter_token_latency_sum: 55460.6987
+  kv_cache_usage: 0.7993
+  num_requests_running: 6
+  num_requests_waiting: 0
+
+--- Metrics (iteration 29) ---
+  avg_inter_token_latency_ms: 39.8571
+  inter_token_latency_count: 1392183
+  inter_token_latency_sum: 55488.3684
+  kv_cache_usage: 0.5111
+  num_requests_running: 4
+  num_requests_waiting: 0
+
+--- Metrics (iteration 30) ---
+  avg_inter_token_latency_ms: 39.8366
+  inter_token_latency_count: 1393605
+  inter_token_latency_sum: 55516.4793
+  kv_cache_usage: 0.8080
+  num_requests_running: 6
+  num_requests_waiting: 0
+
+--- Metrics (iteration 31) ---
+  avg_inter_token_latency_ms: 39.8165
+  inter_token_latency_count: 1394993
+  inter_token_latency_sum: 55543.7651
+  kv_cache_usage: 0.8125
+  num_requests_running: 6
+  num_requests_waiting: 0
+
+--- Metrics (iteration 32) ---
+  avg_inter_token_latency_ms: 39.7963
+  inter_token_latency_count: 1396397
+  inter_token_latency_sum: 55571.3865
+  kv_cache_usage: 0.7405
+  num_requests_running: 5
+  num_requests_waiting: 0
+
+--- Metrics (iteration 33) ---
+  avg_inter_token_latency_ms: 39.7771
+  inter_token_latency_count: 1397723
+  inter_token_latency_sum: 55597.3249
+  kv_cache_usage: 0.7444
+  num_requests_running: 5
+  num_requests_waiting: 0
+
+--- Metrics (iteration 34) ---
+  avg_inter_token_latency_ms: 39.7579
+  inter_token_latency_count: 1398974
+  inter_token_latency_sum: 55620.3137
+  kv_cache_usage: 0.7483
+  num_requests_running: 5
+  num_requests_waiting: 0
+
+--- Metrics (iteration 35) ---
+  avg_inter_token_latency_ms: 39.7390
+  inter_token_latency_count: 1400221
+  inter_token_latency_sum: 55643.3920
+  kv_cache_usage: 0.7521
+  num_requests_running: 5
+  num_requests_waiting: 0
+
+--- Metrics (iteration 36) ---
+  avg_inter_token_latency_ms: 39.7205
+  inter_token_latency_count: 1401442
+  inter_token_latency_sum: 55665.9957
+  kv_cache_usage: 0.6209
+  num_requests_running: 4
+  num_requests_waiting: 0
+
+--- Metrics (iteration 37) ---
+  avg_inter_token_latency_ms: 39.7022
+  inter_token_latency_count: 1402650
+  inter_token_latency_sum: 55688.3440
+  kv_cache_usage: 0.6240
+  num_requests_running: 4
+  num_requests_waiting: 0
+
+--- Metrics (iteration 38) ---
+  avg_inter_token_latency_ms: 39.6838
+  inter_token_latency_count: 1403884
+  inter_token_latency_sum: 55711.4613
+  kv_cache_usage: 0.7639
+  num_requests_running: 5
+  num_requests_waiting: 0
+
+--- Metrics (iteration 39) ---
+  avg_inter_token_latency_ms: 39.6664
+  inter_token_latency_count: 1405053
+  inter_token_latency_sum: 55733.4143
+  kv_cache_usage: 0.7679
+  num_requests_running: 5
+  num_requests_waiting: 0
+
+--- Metrics (iteration 40) ---
+  avg_inter_token_latency_ms: 39.6483
+  inter_token_latency_count: 1406286
+  inter_token_latency_sum: 55756.8708
+  kv_cache_usage: 0.7716
+  num_requests_running: 5
+  num_requests_waiting: 0
+
+--- Metrics (iteration 41) ---
+  avg_inter_token_latency_ms: 39.6301
+  inter_token_latency_count: 1407516
+  inter_token_latency_sum: 55779.9920
+  kv_cache_usage: 0.7754
+  num_requests_running: 5
+  num_requests_waiting: 0
+
+--- Metrics (iteration 42) ---
+  avg_inter_token_latency_ms: 39.6124
+  inter_token_latency_count: 1408713
+  inter_token_latency_sum: 55802.5604
+  kv_cache_usage: 0.7794
+  num_requests_running: 5
+  num_requests_waiting: 0
+
+--- Metrics (iteration 43) ---
+  avg_inter_token_latency_ms: 39.5954
+  inter_token_latency_count: 1409896
+  inter_token_latency_sum: 55825.4015
+  kv_cache_usage: 0.7831
+  num_requests_running: 5
+  num_requests_waiting: 0
+
+--- Metrics (iteration 44) ---
+  avg_inter_token_latency_ms: 39.5777
+  inter_token_latency_count: 1411096
+  inter_token_latency_sum: 55847.9849
+  kv_cache_usage: 0.7870
+  num_requests_running: 5
+  num_requests_waiting: 0
+
+--- Metrics (iteration 45) ---
+  avg_inter_token_latency_ms: 39.5600
+  inter_token_latency_count: 1412312
+  inter_token_latency_sum: 55871.1147
+  kv_cache_usage: 0.6221
+  num_requests_running: 4
+  num_requests_waiting: 0
+
+--- Metrics (iteration 46) ---
+  avg_inter_token_latency_ms: 39.5429
+  inter_token_latency_count: 1413500
+  inter_token_latency_sum: 55893.8726
+  kv_cache_usage: 0.7945
+  num_requests_running: 5
+  num_requests_waiting: 0
+
+--- Metrics (iteration 47) ---
+  avg_inter_token_latency_ms: 39.5256
+  inter_token_latency_count: 1414693
+  inter_token_latency_sum: 55916.5861
+  kv_cache_usage: 0.6426
+  num_requests_running: 4
+  num_requests_waiting: 0
+
+--- Metrics (iteration 48) ---
+  avg_inter_token_latency_ms: 39.5083
+  inter_token_latency_count: 1415889
+  inter_token_latency_sum: 55939.3626
+  kv_cache_usage: 0.8021
+  num_requests_running: 5
+  num_requests_waiting: 0
+
+--- Metrics (iteration 49) ---
+  avg_inter_token_latency_ms: 39.4912
+  inter_token_latency_count: 1417074
+  inter_token_latency_sum: 55961.9903
+  kv_cache_usage: 0.8060
+  num_requests_running: 5
+  num_requests_waiting: 0
+
+--- Metrics (iteration 50) ---
+  avg_inter_token_latency_ms: 39.4739
+  inter_token_latency_count: 1418274
+  inter_token_latency_sum: 55984.8641
+  kv_cache_usage: 0.8097
+  num_requests_running: 5
+  num_requests_waiting: 0
+
+--- Metrics (iteration 51) ---
+  avg_inter_token_latency_ms: 39.4562
+  inter_token_latency_count: 1419465
+  inter_token_latency_sum: 56006.7078
+  kv_cache_usage: 0.6324
+  num_requests_running: 4
+  num_requests_waiting: 0
+
+--- Metrics (iteration 52) ---
+  avg_inter_token_latency_ms: 39.4380
+  inter_token_latency_count: 1420576
+  inter_token_latency_sum: 56024.6960
+  kv_cache_usage: 0.6359
+  num_requests_running: 4
+  num_requests_waiting: 0
+
+--- Metrics (iteration 53) ---
+  avg_inter_token_latency_ms: 39.4196
+  inter_token_latency_count: 1421709
+  inter_token_latency_sum: 56043.1478
+  kv_cache_usage: 0.4921
+  num_requests_running: 3
+  num_requests_waiting: 0
+
+--- Metrics (iteration 54) ---
+  avg_inter_token_latency_ms: 39.4022
+  inter_token_latency_count: 1422769
+  inter_token_latency_sum: 56060.2829
+  kv_cache_usage: 0.6429
+  num_requests_running: 4
+  num_requests_waiting: 0
+
+--- Metrics (iteration 55) ---
+  avg_inter_token_latency_ms: 39.3840
+  inter_token_latency_count: 1423897
+  inter_token_latency_sum: 56078.7275
+  kv_cache_usage: 0.6463
+  num_requests_running: 4
+  num_requests_waiting: 0
+
+--- Metrics (iteration 56) ---
+  avg_inter_token_latency_ms: 39.3661
+  inter_token_latency_count: 1425001
+  inter_token_latency_sum: 56096.7995
+  kv_cache_usage: 0.6498
+  num_requests_running: 4
+  num_requests_waiting: 0
+
+--- Metrics (iteration 57) ---
+  avg_inter_token_latency_ms: 39.3483
+  inter_token_latency_count: 1426113
+  inter_token_latency_sum: 56115.0589
+  kv_cache_usage: 0.6531
+  num_requests_running: 4
+  num_requests_waiting: 0
+
+--- Metrics (iteration 58) ---
+  avg_inter_token_latency_ms: 39.3308
+  inter_token_latency_count: 1427187
+  inter_token_latency_sum: 56132.4778
+  kv_cache_usage: 0.6566
+  num_requests_running: 4
+  num_requests_waiting: 0
+
+--- Metrics (iteration 59) ---
+  avg_inter_token_latency_ms: 39.3134
+  inter_token_latency_count: 1428275
+  inter_token_latency_sum: 56150.3232
+  kv_cache_usage: 0.6600
+  num_requests_running: 4
+  num_requests_waiting: 0
+
+--- Metrics (iteration 60) ---
+  avg_inter_token_latency_ms: 39.2957
+  inter_token_latency_count: 1429378
+  inter_token_latency_sum: 56168.4591
+  kv_cache_usage: 0.5015
+  num_requests_running: 3
+  num_requests_waiting: 0
+
+--- Metrics (iteration 61) ---
+  avg_inter_token_latency_ms: 39.2779
+  inter_token_latency_count: 1430502
+  inter_token_latency_sum: 56187.1805
+  kv_cache_usage: 0.6666
+  num_requests_running: 4
+  num_requests_waiting: 0
+
+--- Metrics (iteration 62) ---
+  avg_inter_token_latency_ms: 39.2610
+  inter_token_latency_count: 1431565
+  inter_token_latency_sum: 56204.7353
+  kv_cache_usage: 0.5027
+  num_requests_running: 3
+  num_requests_waiting: 0
+
+--- Metrics (iteration 63) ---
+  avg_inter_token_latency_ms: 39.2438
+  inter_token_latency_count: 1432663
+  inter_token_latency_sum: 56223.1009
+  kv_cache_usage: 0.6734
+  num_requests_running: 4
+  num_requests_waiting: 0
+
+--- Metrics (iteration 64) ---
+  avg_inter_token_latency_ms: 39.2268
+  inter_token_latency_count: 1433743
+  inter_token_latency_sum: 56241.1257
+  kv_cache_usage: 0.6769
+  num_requests_running: 4
+  num_requests_waiting: 0
+
+--- Metrics (iteration 65) ---
+  avg_inter_token_latency_ms: 39.2099
+  inter_token_latency_count: 1434821
+  inter_token_latency_sum: 56259.1171
+  kv_cache_usage: 0.6802
+  num_requests_running: 4
+  num_requests_waiting: 0
+
+--- Metrics (iteration 66) ---
+  avg_inter_token_latency_ms: 39.1928
+  inter_token_latency_count: 1435906
+  inter_token_latency_sum: 56277.1814
+  kv_cache_usage: 0.4953
+  num_requests_running: 3
+  num_requests_waiting: 0
+
+--- Metrics (iteration 67) ---
+  avg_inter_token_latency_ms: 39.1769
+  inter_token_latency_count: 1436835
+  inter_token_latency_sum: 56290.6787
+  kv_cache_usage: 0.4980
+  num_requests_running: 3
+  num_requests_waiting: 0
+
+--- Metrics (iteration 68) ---
+  avg_inter_token_latency_ms: 39.1610
+  inter_token_latency_count: 1437768
+  inter_token_latency_sum: 56304.4976
+  kv_cache_usage: 0.5007
+  num_requests_running: 3
+  num_requests_waiting: 0
+
+--- Metrics (iteration 69) ---
+  avg_inter_token_latency_ms: 39.1456
+  inter_token_latency_count: 1438674
+  inter_token_latency_sum: 56317.6985
+  kv_cache_usage: 0.3301
+  num_requests_running: 2
+  num_requests_waiting: 0
+
+--- Metrics (iteration 70) ---
+  avg_inter_token_latency_ms: 39.1298
+  inter_token_latency_count: 1439604
+  inter_token_latency_sum: 56331.4657
+  kv_cache_usage: 0.5062
+  num_requests_running: 3
+  num_requests_waiting: 0
+
+--- Metrics (iteration 71) ---
+  avg_inter_token_latency_ms: 39.1139
+  inter_token_latency_count: 1440547
+  inter_token_latency_sum: 56345.3439
+  kv_cache_usage: 0.5088
+  num_requests_running: 3
+  num_requests_waiting: 0
+
+--- Metrics (iteration 72) ---
+  avg_inter_token_latency_ms: 39.0989
+  inter_token_latency_count: 1441431
+  inter_token_latency_sum: 56358.3078
+  kv_cache_usage: 0.5115
+  num_requests_running: 3
+  num_requests_waiting: 0
+
+--- Metrics (iteration 73) ---
+  avg_inter_token_latency_ms: 39.0832
+  inter_token_latency_count: 1442362
+  inter_token_latency_sum: 56372.1425
+  kv_cache_usage: 0.5142
+  num_requests_running: 3
+  num_requests_waiting: 0
+
+--- Metrics (iteration 74) ---
+  avg_inter_token_latency_ms: 39.0689
+  inter_token_latency_count: 1443174
+  inter_token_latency_sum: 56383.2396
+  kv_cache_usage: 0.3393
+  num_requests_running: 2
+  num_requests_waiting: 0
+
+--- Metrics (iteration 75) ---
+  avg_inter_token_latency_ms: 39.0558
+  inter_token_latency_count: 1443885
+  inter_token_latency_sum: 56392.1237
+  kv_cache_usage: 0.3414
+  num_requests_running: 2
+  num_requests_waiting: 0
+
+--- Metrics (iteration 76) ---
+  avg_inter_token_latency_ms: 39.0427
+  inter_token_latency_count: 1444602
+  inter_token_latency_sum: 56401.0956
+  kv_cache_usage: 0.1667
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 77) ---
+  avg_inter_token_latency_ms: 39.0301
+  inter_token_latency_count: 1445291
+  inter_token_latency_sum: 56409.8482
+  kv_cache_usage: 0.3456
+  num_requests_running: 2
+  num_requests_waiting: 0
+
+--- Metrics (iteration 78) ---
+  avg_inter_token_latency_ms: 39.0167
+  inter_token_latency_count: 1446024
+  inter_token_latency_sum: 56419.1128
+  kv_cache_usage: 0.3476
+  num_requests_running: 2
+  num_requests_waiting: 0
+
+--- Metrics (iteration 79) ---
+  avg_inter_token_latency_ms: 39.0039
+  inter_token_latency_count: 1446727
+  inter_token_latency_sum: 56427.9747
+  kv_cache_usage: 0.3498
+  num_requests_running: 2
+  num_requests_waiting: 0
+
+--- Metrics (iteration 80) ---
+  avg_inter_token_latency_ms: 38.9907
+  inter_token_latency_count: 1447454
+  inter_token_latency_sum: 56437.2145
+  kv_cache_usage: 0.3518
+  num_requests_running: 2
+  num_requests_waiting: 0
+
+--- Metrics (iteration 81) ---
+  avg_inter_token_latency_ms: 38.9779
+  inter_token_latency_count: 1448156
+  inter_token_latency_sum: 56446.0960
+  kv_cache_usage: 0.3539
+  num_requests_running: 2
+  num_requests_waiting: 0
+
+--- Metrics (iteration 82) ---
+  avg_inter_token_latency_ms: 38.9649
+  inter_token_latency_count: 1448873
+  inter_token_latency_sum: 56455.2056
+  kv_cache_usage: 0.1726
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 83) ---
+  avg_inter_token_latency_ms: 38.9528
+  inter_token_latency_count: 1449542
+  inter_token_latency_sum: 56463.7660
+  kv_cache_usage: 0.3580
+  num_requests_running: 2
+  num_requests_waiting: 0
+
+--- Metrics (iteration 84) ---
+  avg_inter_token_latency_ms: 38.9398
+  inter_token_latency_count: 1450263
+  inter_token_latency_sum: 56472.9995
+  kv_cache_usage: 0.3600
+  num_requests_running: 2
+  num_requests_waiting: 0
+
+--- Metrics (iteration 85) ---
+  avg_inter_token_latency_ms: 38.9273
+  inter_token_latency_count: 1450958
+  inter_token_latency_sum: 56481.8663
+  kv_cache_usage: 0.3620
+  num_requests_running: 2
+  num_requests_waiting: 0
+
+--- Metrics (iteration 86) ---
+  avg_inter_token_latency_ms: 38.9144
+  inter_token_latency_count: 1451677
+  inter_token_latency_sum: 56491.1029
+  kv_cache_usage: 0.3641
+  num_requests_running: 2
+  num_requests_waiting: 0
+
+--- Metrics (iteration 87) ---
+  avg_inter_token_latency_ms: 38.9018
+  inter_token_latency_count: 1452377
+  inter_token_latency_sum: 56500.1012
+  kv_cache_usage: 0.1889
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 88) ---
+  avg_inter_token_latency_ms: 38.8892
+  inter_token_latency_count: 1453083
+  inter_token_latency_sum: 56509.2038
+  kv_cache_usage: 0.3681
+  num_requests_running: 2
+  num_requests_waiting: 0
+
+--- Metrics (iteration 89) ---
+  avg_inter_token_latency_ms: 38.8796
+  inter_token_latency_count: 1453590
+  inter_token_latency_sum: 56514.9505
+  kv_cache_usage: 0.1912
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 90) ---
+  avg_inter_token_latency_ms: 38.8707
+  inter_token_latency_count: 1454039
+  inter_token_latency_sum: 56519.5513
+  kv_cache_usage: 0.1924
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 91) ---
+  avg_inter_token_latency_ms: 38.8624
+  inter_token_latency_count: 1454462
+  inter_token_latency_sum: 56523.9010
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 92) ---
+  avg_inter_token_latency_ms: 38.8539
+  inter_token_latency_count: 1454893
+  inter_token_latency_sum: 56528.3384
+  kv_cache_usage: 0.1950
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 93) ---
+  avg_inter_token_latency_ms: 38.8452
+  inter_token_latency_count: 1455339
+  inter_token_latency_sum: 56532.9375
+  kv_cache_usage: 0.1963
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 94) ---
+  avg_inter_token_latency_ms: 38.8372
+  inter_token_latency_count: 1455745
+  inter_token_latency_sum: 56537.1213
+  kv_cache_usage: 0.1976
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 95) ---
+  avg_inter_token_latency_ms: 38.8285
+  inter_token_latency_count: 1456190
+  inter_token_latency_sum: 56541.7154
+  kv_cache_usage: 0.1989
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 96) ---
+  avg_inter_token_latency_ms: 38.8198
+  inter_token_latency_count: 1456635
+  inter_token_latency_sum: 56546.3165
+  kv_cache_usage: 0.2002
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 97) ---
+  avg_inter_token_latency_ms: 38.8120
+  inter_token_latency_count: 1457038
+  inter_token_latency_sum: 56550.4888
+  kv_cache_usage: 0.2015
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 98) ---
+  avg_inter_token_latency_ms: 38.8033
+  inter_token_latency_count: 1457481
+  inter_token_latency_sum: 56555.0816
+  kv_cache_usage: 0.2027
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 99) ---
+  avg_inter_token_latency_ms: 38.7955
+  inter_token_latency_count: 1457880
+  inter_token_latency_sum: 56559.2363
+  kv_cache_usage: 0.2041
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 100) ---
+  avg_inter_token_latency_ms: 38.7870
+  inter_token_latency_count: 1458321
+  inter_token_latency_sum: 56563.8317
+  kv_cache_usage: 0.2053
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 101) ---
+  avg_inter_token_latency_ms: 38.7784
+  inter_token_latency_count: 1458762
+  inter_token_latency_sum: 56568.4246
+  kv_cache_usage: 0.2065
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 102) ---
+  avg_inter_token_latency_ms: 38.7706
+  inter_token_latency_count: 1459161
+  inter_token_latency_sum: 56572.5929
+  kv_cache_usage: 0.2079
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 103) ---
+  avg_inter_token_latency_ms: 38.7621
+  inter_token_latency_count: 1459600
+  inter_token_latency_sum: 56577.1798
+  kv_cache_usage: 0.2091
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 104) ---
+  avg_inter_token_latency_ms: 38.7537
+  inter_token_latency_count: 1460033
+  inter_token_latency_sum: 56581.7141
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 105) ---
+  avg_inter_token_latency_ms: 38.7459
+  inter_token_latency_count: 1460435
+  inter_token_latency_sum: 56585.9259
+  kv_cache_usage: 0.2117
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 106) ---
+  avg_inter_token_latency_ms: 38.7375
+  inter_token_latency_count: 1460871
+  inter_token_latency_sum: 56590.5084
+  kv_cache_usage: 0.2129
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 107) ---
+  avg_inter_token_latency_ms: 38.7298
+  inter_token_latency_count: 1461271
+  inter_token_latency_sum: 56594.7258
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 108) ---
+  avg_inter_token_latency_ms: 38.7215
+  inter_token_latency_count: 1461700
+  inter_token_latency_sum: 56599.2461
+  kv_cache_usage: 0.2154
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 109) ---
+  avg_inter_token_latency_ms: 38.7132
+  inter_token_latency_count: 1462134
+  inter_token_latency_sum: 56603.8235
+  kv_cache_usage: 0.2167
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 110) ---
+  avg_inter_token_latency_ms: 38.7056
+  inter_token_latency_count: 1462527
+  inter_token_latency_sum: 56607.9782
+  kv_cache_usage: 0.2180
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 111) ---
+  avg_inter_token_latency_ms: 38.6973
+  inter_token_latency_count: 1462960
+  inter_token_latency_sum: 56612.5621
+  kv_cache_usage: 0.2192
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 112) ---
+  avg_inter_token_latency_ms: 38.6890
+  inter_token_latency_count: 1463393
+  inter_token_latency_sum: 56617.1528
+  kv_cache_usage: 0.2204
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 113) ---
+  avg_inter_token_latency_ms: 38.6816
+  inter_token_latency_count: 1463778
+  inter_token_latency_sum: 56621.2427
+  kv_cache_usage: 0.2217
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 114) ---
+  avg_inter_token_latency_ms: 38.6734
+  inter_token_latency_count: 1464207
+  inter_token_latency_sum: 56625.8145
+  kv_cache_usage: 0.2230
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 115) ---
+  avg_inter_token_latency_ms: 38.6652
+  inter_token_latency_count: 1464635
+  inter_token_latency_sum: 56630.3850
+  kv_cache_usage: 0.2242
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 116) ---
+  avg_inter_token_latency_ms: 38.6578
+  inter_token_latency_count: 1465021
+  inter_token_latency_sum: 56634.5048
+  kv_cache_usage: 0.2254
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 117) ---
+  avg_inter_token_latency_ms: 38.6496
+  inter_token_latency_count: 1465449
+  inter_token_latency_sum: 56639.0781
+  kv_cache_usage: 0.2267
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 118) ---
+  avg_inter_token_latency_ms: 38.6415
+  inter_token_latency_count: 1465874
+  inter_token_latency_sum: 56643.6286
+  kv_cache_usage: 0.2279
+  num_requests_running: 1
+  num_requests_waiting: 0
+
+--- Metrics (iteration 119) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 120) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 121) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 122) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 123) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 124) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 125) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 126) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 127) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 128) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 129) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 130) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 131) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 132) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 133) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 134) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 135) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 136) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 137) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 138) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 139) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 140) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 141) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 142) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 143) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 144) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 145) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 146) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 147) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 148) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 149) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 150) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 151) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 152) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 153) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 154) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 155) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 156) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 157) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 158) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 159) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 160) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 161) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 162) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 163) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 164) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 165) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 166) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 167) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 168) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 169) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 170) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 171) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 172) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 173) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 174) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 175) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 176) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 177) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 178) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 179) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 180) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 181) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 182) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 183) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 184) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 185) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 186) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 187) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 188) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 189) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 190) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 191) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 192) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 193) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 194) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 195) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 196) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 197) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 198) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 199) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 200) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 201) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 202) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 203) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 204) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 205) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 206) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 207) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 208) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 209) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 210) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 211) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 212) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 213) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 214) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 215) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 216) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 217) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 218) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 219) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 220) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 221) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 222) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 223) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 224) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 225) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 226) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 227) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 228) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 229) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 230) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 231) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 232) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 233) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 234) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 235) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 236) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 237) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 238) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 239) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 240) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 241) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 242) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 243) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 244) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 245) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 246) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 247) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 248) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 249) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 250) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 251) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 252) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 253) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 254) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 255) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 256) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 257) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 258) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 259) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 260) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 261) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 262) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 263) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 264) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 265) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 266) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 267) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 268) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 269) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 270) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 271) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 272) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 273) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 274) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 275) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 276) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 277) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 278) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 279) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 280) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 281) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 282) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 283) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 284) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 285) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 286) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 287) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 288) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 289) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 290) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 291) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 292) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 293) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
+  inter_token_latency_sum: 56644.1354
+  kv_cache_usage: 0.0000
+  num_requests_running: 0
+  num_requests_waiting: 0
+
+--- Metrics (iteration 294) ---
+  avg_inter_token_latency_ms: 38.6406
+  inter_token_latency_count: 1465921
