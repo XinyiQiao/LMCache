@@ -781,6 +781,7 @@ class LMCacheConnectorV1Impl:
             if request.load_spec is None:
                 continue
 
+            req_start_time = time.perf_counter()
             tokens = request.token_ids
             # TODO: have a pre-allocated buffer to hold the slot_mappings
             slot_mapping = request.slot_mapping.to(self.device)
@@ -874,6 +875,16 @@ class LMCacheConnectorV1Impl:
                 request.load_spec.vllm_cached_tokens
             )
             self._stats_monitor.update_interval_prompt_tokens(len(tokens))
+
+            req_end_time = time.perf_counter()
+            req_load_time_ms = (req_end_time - req_start_time) * 1000
+            tokens_to_load = lmcache_cached_tokens - request.load_spec.vllm_cached_tokens
+            logger.info(
+                "start_load_kv request %s: total %.2f ms, tokens_to_load: %d",
+                request.req_id,
+                req_load_time_ms,
+                tokens_to_load,
+            )
 
         load_end_time = time.perf_counter()
         total_load_time_ms = (load_end_time - load_start_time) * 1000
