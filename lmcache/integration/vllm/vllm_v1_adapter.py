@@ -888,10 +888,12 @@ class LMCacheConnectorV1Impl:
 
         load_end_time = time.perf_counter()
         total_load_time_ms = (load_end_time - load_start_time) * 1000
-        # logger.info(
-        #     "start_load_kv total time: %.2f ms",
-        #     total_load_time_ms,
-        # )
+        request_ids = [r.req_id for r in metadata.requests if r.load_spec is not None]
+        logger.info(
+            "start_load_kv total time: %.2f ms, request_ids: %s",
+            total_load_time_ms,
+            request_ids,
+        )
 
     def record_failed_blocks(
         self,
